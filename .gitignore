@@ -212,7 +212,6 @@ tramp
 # FastAPI Specific
 # ================
 # Upload directories
-uploads/
 media/
 static/uploads/
 temp/
